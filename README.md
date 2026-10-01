@@ -28,7 +28,7 @@ AEGIS aims to bridge that gap.
 
 The long-term vision is to build an **Enterprise AI Copilot** capable of understanding natural-language requests, retrieving organizational knowledge, querying structured business data, reasoning over information, coordinating specialized AI agents, and executing authorized business workflows through connected tools.
 
-Instead of being another chatbot that only generates text, AEGIS is designed to become an **AI-powered digital employee for enterprise operations**.
+Instead of being another chatbot that only generates text, AEGIS is designed to become an
 
 ---
 
