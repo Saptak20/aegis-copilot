@@ -6,7 +6,7 @@
 
 ---
 
-
+## 🚧 Project Status
 
 **Early Development — Project Foundation**
 
