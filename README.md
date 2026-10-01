@@ -32,7 +32,7 @@ Instead of being another chatbot that only generates text, AEGIS is designed to 
 
 ---
 
-## 🎯 Vision
+## Vision
 
 ```text
         USER
